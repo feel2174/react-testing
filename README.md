@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Next.js)](https://github.com/feel2174)
+
 ## Available Scripts
 
 In the project directory, you can run:
